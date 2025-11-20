@@ -7,7 +7,7 @@ Status: In Development
 
 ✨ Features
 - Idle system that generates resources over time, even when the player is not actively interacting
-- Various activities: studying, reading, part-time jobs, attending events
+- Furniture upgrade system
 - Skill and stat system (e.g., Knowledge, Happiness, Money)
 - Level-up and unlock system for new activities and items
 - Save / Load system (using PlayerPrefs or JSON files)
