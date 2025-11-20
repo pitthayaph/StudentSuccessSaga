@@ -10,7 +10,7 @@ Status: In Development
 - Furniture upgrade system
 - Skill and stat system (e.g., Knowledge, Happiness, Money)
 - Level-up and unlock system for new activities and items
-- Save / Load system (using PlayerPrefs or JSON files)
+- Save / Load system (using PlayerPrefs)
 - UI/UX for main screens, menus, and event pop-ups
 - Supports build for Windows (PC) (in the full project)
 ⚠️ Note: This repository contains C# scripts only — assets, scenes, and builds are not included.
@@ -19,4 +19,4 @@ Status: In Development
 - Unity Engine (development platform)
 - C# (main scripting language)
 - Unity version control (version control)
-- JSON / PlayerPrefs for save system
+- PlayerPrefs for save system
