@@ -1,4 +1,5 @@
 🎓 Student Success Saga — 2D Idle Game (Unity, C#)
+
 Student Success Saga is a 2D idle/clicker game about the daily life of a university student — managing time, studying, working part-time, exercising, and taking breaks in order to stay balanced and graduate successfully.
 The game is developed with Unity and programmed in C#, designed to practice game economy systems, progression, UI design, and a simple save/load system.
 
